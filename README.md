@@ -14,6 +14,8 @@ We will go ahead and set Domain Controller’s NIC Private IP address to be stat
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/294987d6-f1f1-495b-bb9d-e52956a03d06)
 
+Next we are going to make sure that we can ping client-1 from the DC-1
+
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
