@@ -1,4 +1,8 @@
-# On-premises-Active-Directory-in Azure Virtual machine
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/ad68a4bd-f5bf-4f71-838c-648da3183f20)
+
+
+This tutorial outlines the implementation of on-premises Active Directory-in Azure Virtual machines
 We are going to run a resource group> virtual network(192.168.0.0/16)> subnet(192.168.1.0/24)
 
 Next we will create two virtual machines:
