@@ -1,5 +1,5 @@
 
-![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/ad68a4bd-f5bf-4f71-838c-648da3183f20)
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/66036fa5-7730-431a-9b83-98be01cb6b51)
 
 
 This tutorial outlines the implementation of on-premises Active Directory-in Azure Virtual machines
