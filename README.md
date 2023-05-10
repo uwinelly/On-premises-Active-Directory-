@@ -10,8 +10,9 @@ Next we will create two virtual machines:
      1) DC-1 Domain Controller which will be running windows server
      2) Client-1 running windows 10
      
-We will go ahead and set Domain Controller’s NIC Private IP address to be static
-![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/80bc0766-dd68-4176-b80c-cb2dc67da469)
+We will go ahead and set Domain Controller’s NIC Private IP address to be static:
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/294987d6-f1f1-495b-bb9d-e52956a03d06)
 
 
      
