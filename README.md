@@ -14,7 +14,7 @@ We will go ahead and set Domain Controller’s NIC Private IP address to be stat
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/294987d6-f1f1-495b-bb9d-e52956a03d06)
 
-Next we are going to make sure that we can ping client-1 from the DC-1
+Next we are going to make sure that we can ping the DC-1 from client-1 ensuring connectivity between both.
 
 
      
