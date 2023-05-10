@@ -11,6 +11,8 @@ Next we will create two virtual machines:
      2) Client-1 running windows 10
      
 We will go ahead and set Domain Controller’s NIC Private IP address to be static
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/80bc0766-dd68-4176-b80c-cb2dc67da469)
+
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
