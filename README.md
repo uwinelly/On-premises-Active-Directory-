@@ -10,6 +10,7 @@ Next we will create two virtual machines:
      1) DC-1 Domain Controller which will be running windows server
      2) Client-1 running windows 10
      
+We will go ahead and set Domain Controller’s NIC Private IP address to be static
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
