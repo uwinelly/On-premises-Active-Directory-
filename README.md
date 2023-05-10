@@ -16,6 +16,8 @@ We will go ahead and set Domain Controller’s NIC Private IP address to be stat
 
 Next we are going to make sure that we can ping the DC-1 from client-1 ensuring connectivity between both.
 
+It is timing out because DC-1 windows firewall is blocking ICMP traffic
+
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
