@@ -18,6 +18,11 @@ Next we are going to make sure that we can ping the DC-1 from client-1 ensuring 
 
 It is timing out because DC-1 windows firewall is blocking ICMP traffic
 
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/481b4afc-ef56-4333-adb9-6159189df067)
+
+
+
+
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
