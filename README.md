@@ -43,11 +43,27 @@ We will go ahead and set Domain Controller’s NIC Private IP address to be stat
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/294987d6-f1f1-495b-bb9d-e52956a03d06)
 
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/82423108-34a2-4ad2-b55f-a0dc52efa658)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/094e753d-56bf-4cf8-af9c-04fdb9737cb0)
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/fae131c3-a8c4-46df-812d-0ed899b9e9e6)
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/5a7f7ff4-8de1-4c70-91d7-341ef891ca44)
+
+
+
+
+
 Next we are going to make sure that we can ping the DC-1 from client-1 ensuring connectivity between both.
 
 It is timing out because DC-1 windows firewall is blocking ICMP traffic
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/481b4afc-ef56-4333-adb9-6159189df067)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/83cc3387-0a9a-40a7-b514-d8247d2290a6)
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/2ccdb9a7-a6a1-47af-950f-ae6cbd1e4122)
+
+
+
 
      
 We are going to instaure Active Directory on DC-1 and then we will be joining the Client-1 to the DC-1 Domain.
