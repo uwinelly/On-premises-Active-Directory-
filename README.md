@@ -12,7 +12,7 @@ Next we will create two virtual machines:
 
      1) DC-1 Domain Controller which will be running windows server 2022
      
-     2) Client-1 running windows 10
+   
      
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/ebd22b3a-5615-4079-98ef-9f65e116288b)
@@ -25,6 +25,14 @@ Next we will create two virtual machines:
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/26225fcc-5ae1-4922-ad13-845c573b2250)
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/a427c3b4-3654-4d7e-9a28-97ab55f4f102)
+
+
+  2) Client-1 running windows 10
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/ab5c71cf-1531-40fe-8bf0-9a0aa1b79660)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/790447b9-4a5d-45cd-9181-a86d361c29f9)
+
 
 
 We will go ahead and set Domain Controller’s NIC Private IP address to be static:
