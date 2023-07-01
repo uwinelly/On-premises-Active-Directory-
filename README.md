@@ -3,11 +3,15 @@
 
 
 This tutorial outlines the implementation of on-premises Active Directory-in Azure Virtual machines
+The first thingthat we need to do is to set up a microsof Azure account using this link: https://azure.microsoft.com/en-us/free.
+Click on "start free" and create your account.
 
 We are going to run a resource group> virtual network(192.168.0.0/16)> subnet(192.168.1.0/24)
 
 Next we will create two virtual machines:
-     1) DC-1 Domain Controller which will be running windows server
+
+     1) DC-1 Domain Controller which will be running windows server 2022
+     
      2) Client-1 running windows 10
      
 We will go ahead and set Domain Controller’s NIC Private IP address to be static:
@@ -20,7 +24,16 @@ It is timing out because DC-1 windows firewall is blocking ICMP traffic
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/481b4afc-ef56-4333-adb9-6159189df067)
 
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/ebd22b3a-5615-4079-98ef-9f65e116288b)
 
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/b5386f45-084b-4ac9-b260-d8f15adc0ee7)
+
+
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/26225fcc-5ae1-4922-ad13-845c573b2250)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/a427c3b4-3654-4d7e-9a28-97ab55f4f102)
 
 
 
