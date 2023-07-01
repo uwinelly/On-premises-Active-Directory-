@@ -33,6 +33,10 @@ Next we will create two virtual machines:
 
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/790447b9-4a5d-45cd-9181-a86d361c29f9)
 
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/56931096-d017-4f11-838b-6261a1bcb24c)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/238473f8-12b9-4f43-a161-74035511878d)
+
 
 
 We will go ahead and set Domain Controller’s NIC Private IP address to be static:
