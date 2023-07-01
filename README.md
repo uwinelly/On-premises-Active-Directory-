@@ -68,6 +68,12 @@ It is timing out because DC-1 windows firewall is blocking ICMP traffic
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/e3216640-2ccb-4005-8d47-5af9c343377a)
 
 
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/a2007fd5-df4b-4f62-b022-db1ae0b6cfa5)
+
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/72879a63-5257-49b7-a415-927f12aa57c5)
+![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/336fceac-ae08-4f19-9fb9-cd74f015b2b9)
+
+
 
 
 
