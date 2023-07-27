@@ -2,6 +2,26 @@
 ![image](https://github.com/uwinelly/On-premises-Active-Directory-/assets/129979322/66036fa5-7730-431a-9b83-98be01cb6b51)
 
 
+
+ENVIRONMENT AND TECHNOLOGIES USED:
+	Microsoft Azure (Virtual Machines\Compute)
+	Remote Desktop
+	Active Directory Domain Services 
+	PowerShell
+	Windows Server 2022
+	Windows 10 Pro 2022
+
+HIGH-LEVEL DEPLOYMENT AND CONFIGURATION STEPS:
+	Sign into Microsoft Azure Account 
+	Create new resource group 
+	Add virtual machines to the resource group
+	Remote into Windows Server 2022
+	Configure windows server with Active Directory Domain services and DNS 
+	Create Users 
+	Login to the client machine and test connectivity 
+
+
+
 This tutorial outlines the implementation of on-premises Active Directory-in Azure Virtual machines
 The first thingthat we need to do is to set up a microsof Azure account using this link: https://azure.microsoft.com/en-us/free.
 Click on "start free" and create your account.
