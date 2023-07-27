@@ -4,6 +4,7 @@
 
 
 ENVIRONMENT AND TECHNOLOGIES USED:
+
 	Microsoft Azure (Virtual Machines\Compute)
 	Remote Desktop
 	Active Directory Domain Services 
@@ -12,6 +13,7 @@ ENVIRONMENT AND TECHNOLOGIES USED:
 	Windows 10 Pro 2022
 
 HIGH-LEVEL DEPLOYMENT AND CONFIGURATION STEPS:
+
 	Sign into Microsoft Azure Account 
 	Create new resource group 
 	Add virtual machines to the resource group
